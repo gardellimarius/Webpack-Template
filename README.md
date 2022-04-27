@@ -1,5 +1,5 @@
 # Webpack-Template
-Webpack stater template
+This is a simple webpack boilerplate.
 
 # Features
 - Pug
