@@ -4,6 +4,7 @@ Webpack stater template
 # Features
 - Pug
 - SCSS
+- LiveReload
 - Babel
 - image-webpack-loader
 - code minification
